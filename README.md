@@ -96,7 +96,7 @@ sequenced checklist.
 **Where's the exact bar for "done," and what are the optional stretch
 goals?** This repo (your own copy) doesn't include `MVP.md` or
 `ABOVE_AND_BEYOND.md` on purpose — they're not something to keep sitting
-in your portfolio repo. Ask your instructor for the link to this
-template's `project-scope` branch to read them, or check the checklist
-your instructor shares through the classroom, which covers the same
-ground.
+in your portfolio repo. Find them on the original template repo you
+created yours from — switch to its `project-scope` branch (on the
+*template's* GitHub page, not your own copy) — or use the MVP checklist in
+the LMS, which covers the same ground.
